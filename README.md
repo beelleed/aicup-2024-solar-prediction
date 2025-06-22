@@ -26,12 +26,6 @@ Predict solar power generation (`Power(mW)`) based on timestamp and location inf
 
 ---
 
-
-> 模型與資料檔請依 notebook 中路徑說明放置。  
-> Models and data files should be placed manually as per notebook instructions.
-
----
-
 ## 🚀 專案流程 | Pipeline
 
 ### 📍 1. 資料解析與特徵建構 | Data Parsing & Feature Engineering
